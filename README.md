@@ -190,8 +190,8 @@ sports-ball-classification/
 
 **Sanam Asghary**
 
-AI and Computer Vision learner | Electrical Engineering graduate
+Junior AI Engineer with hands-on experience in Python and AI projects.
 
-[GitHub](https://github.com/sanamasghari)
+[GitHub](https://github.com/sanamasghari/resnet18-ball-classification)
 
 [LinkedIn](https://www.linkedin.com/in/sanamasghari/)
